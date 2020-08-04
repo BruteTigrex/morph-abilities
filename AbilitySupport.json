@@ -1,33 +1,33 @@
 {
-  "alexthe666.iceandfire.entity.EntitySeaSerpent": [
+  "com.github.alexthe666.iceandfire.entity.EntitySeaSerpent": [
     "swim|false,1.5F,1.5F,true"
   ],
-  "alexthe666.iceandfire.entity.EntityHippocampus": [
+  "com.github.alexthe666.iceandfire.entity.EntityHippocampus": [
     "swim|false,1.2F,1.2F,true"
   ],
-  "alexthe666.iceandfire.entity.EntityAmphithere": [
+  "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityAmphithere": [
+  "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityBlackFrostDragon": [
+  "com.github.alexthe666.iceandfire.entity.EntityBlackFrostDragon": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityFireDragon": [
+  "com.github.alexthe666.iceandfire.entity.EntityFireDragon": [
     "fly|true",
     "fireImmunity"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityHippogryph": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityIceDragon": [
+  "com.github.alexthe666.iceandfire.entity.EntityIceDragon": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityPixie": [
+  "com.github.alexthe666.iceandfire.entity.EntityPixie": [
     "fly|true"
   ],
-  "alexthe666.iceandfire.entity.EntityStymphalianBird": [
+  "com.github.alexthe666.iceandfire.entity.EntityStymphalianBird": [
     "hostile",
     "fly|true"
   ],
