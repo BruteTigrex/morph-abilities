@@ -1,5 +1,5 @@
 {
-  "com.github.alexthe666.iceandfire.entity.EntitySeaSerpent": [
+  "com.github.alexthe666.iceandfire.mob.entity.EntitySeaSerpent": [
     "swim|false,1.5F,1.5F,true"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityHippocampus": [
