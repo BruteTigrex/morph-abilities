@@ -1,17 +1,11 @@
 {
-  "com.github.alexthe666.iceandfire.mob.entity.EntitySeaSerpent": [
+  "com.github.alexthe666.iceandfire.entity.EntitySeaSerpent": [
     "swim|false,1.5F,1.5F,true"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityHippocampus": [
     "swim|false,1.2F,1.2F,true"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
-    "fly|true"
-  ],
-  "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
-    "fly|true"
-  ],
-  "com.github.alexthe666.iceandfire.entity.EntityBlackFrostDragon": [
     "fly|true"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityFireDragon": [
