@@ -6,24 +6,23 @@
     "swim|false,1.2F,1.2F,true"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
-    "fly|true"
+    "fly|false"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityFireDragon": [
-    "fly|true",
+    "fly|false",
     "fireImmunity"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityHippogryph": [
-    "fly|true"
+    "fly|false"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityIceDragon": [
-    "fly|true"
+    "fly|false"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityPixie": [
-    "fly|true"
+    "fly|false"
   ],
   "com.github.alexthe666.iceandfire.entity.EntityStymphalianBird": [
-    "hostile",
-    "fly|true"
+    "fly|false"
   ],
   "am2.bosses.EntityAirGuardian": [
     "hostile",
